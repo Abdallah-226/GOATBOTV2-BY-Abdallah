@@ -32,7 +32,7 @@
   "AGE": "18",
   "GENDER": "MALE",
   "nickNameBot": "Mugiwara",
-  "FACEBOOK": "https://www.facebook.com/profile.php?id=61563580892213",
+  "FACEBOOK": "",
   "prefix": ",",
   "database": {
     "type": "sqlite",
